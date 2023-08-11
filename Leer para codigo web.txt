@@ -1,0 +1,4 @@
+Los datos son quemados, se utilizo html, css, javascript, como acordamos no se uso consumo de 
+api, se muestra la pagina en blanco como pide el ejercicio, si se oprime el boton buscar, mostrara
+los resultados que en este caso son los datos quemados, en el boton de paginacion se mostraran 
+los "Otros datos encontrados"
